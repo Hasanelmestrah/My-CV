@@ -1,4 +1,9 @@
 #Hasan El-Mestrah 
-###### full stack web develloper
+###### Full stack web developer
+-----------------------------------------------------------
 
-* codi trainer
+* Codi trainer
+* bachelor degereev in nursing science 
+ hello world
+  
+  <hasanelmestrah@gmail.com>
